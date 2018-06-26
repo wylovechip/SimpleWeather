@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://F:\Android\miniweathe\mini-weather-wangyue-master\Myweather.iml" filepath="F:\Android\miniweathe\mini-weather-wangyue-master\Myweather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mini-weather-wangyue-master.iml" filepath="$PROJECT_DIR$/mini-weather-wangyue-master.iml" />
+    </modules>
+  </component>
+</project>
